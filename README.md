@@ -44,9 +44,12 @@ description: Popis volby.
 aliases: Pole aliasů pro volbu.
 
 defaultValue: Výchozí hodnota volby.
-validator: Validátor pro ověření hodnoty volby.<br>
+
+validator: Validátor pro ověření hodnoty volby.
+
 OptionValidator<T>
 Rozhraní pro validaci hodnot volby.
+
 CustomType
 Rozhraní pro definici vlastního datového typu.
 
