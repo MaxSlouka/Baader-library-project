@@ -32,7 +32,7 @@ Manipulace s vlastním datovým typem:
 Po získání hodnoty vlastní volby můžete provádět operace s vlastním datovým typem, například volat metody a provádět další operace.
 
 
-##Třídy
+## Třídy
 Option<T>
 name: Název volby.
 required: Určuje, zda je volba povinná.
