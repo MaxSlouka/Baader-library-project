@@ -33,7 +33,7 @@ Po získání hodnoty vlastní volby můžete provádět operace s vlastním dat
 
 
 ## Třídy
-Option<T>
+Option<T> \\n
 name: Název volby.
 required: Určuje, zda je volba povinná.
 description: Popis volby.
