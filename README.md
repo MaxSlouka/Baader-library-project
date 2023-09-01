@@ -33,13 +33,18 @@ Po získání hodnoty vlastní volby můžete provádět operace s vlastním dat
 
 
 ## Třídy
-Option<T> \n
+Option<T>
+
 name: Název volby.
+
 required: Určuje, zda je volba povinná.
+
 description: Popis volby.
+
 aliases: Pole aliasů pro volbu.
+
 defaultValue: Výchozí hodnota volby.
-validator: Validátor pro ověření hodnoty volby.
+validator: Validátor pro ověření hodnoty volby.<br>
 OptionValidator<T>
 Rozhraní pro validaci hodnot volby.
 CustomType
